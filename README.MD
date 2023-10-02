@@ -1,6 +1,6 @@
 ## Spy x Family 
 
-![preview](./github/preview.png)
+![preview](./github/preview-anya.png)
 
 > Spy x Family
 
@@ -10,7 +10,7 @@ Diferenças - Botões:
 - Imagens redimencionadas utilizando CSS
 - Transições ao passar o mouse por cima
 
-## [🔗Clique aqui para acessar](https://manusogari.github.io/Spy-x-Family/)
+## [🔗Clique aqui para acessar](https://manusogari.github.io/SpyxFamily/)
 
 ## 💻 Tecnologias
 - HTML

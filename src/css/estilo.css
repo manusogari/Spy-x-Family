@@ -91,14 +91,14 @@ main .personagem .imagem {
 
 .botoes .botao img {
     border-radius: 50%;
-    max-width: 65px;
+    max-width: 60px;
 }
 
 .botoes .botao.selecionado {
-    transform: scale(1.2);
-    box-shadow: 0 0 10px #d9d9d9;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px #bdbdbd;
 
-    background: #d9d9d9;
+    background: #bdbdbd;
 }
 
 /*animações para os botoes*/
@@ -106,3 +106,4 @@ main .personagem .imagem {
     transform: scale(1.1);
     transition: 0.2s;
 }
+
