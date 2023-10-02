@@ -10,7 +10,7 @@ Diferenças - Botões:
 - Imagens redimencionadas utilizando CSS
 - Transições ao passar o mouse por cima
 
-## [🔗Clique aqui para acessar](https://manusogari.github.io/SpyxFamily/)
+## [🔗Clique aqui para acessar](https://manusogari.github.io/Spy-x-Family/)
 
 ## 💻 Tecnologias
 - HTML
