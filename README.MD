@@ -1,6 +1,6 @@
 ## Spy x Family 
 
-![preview](./github/preview-anya.png)
+![preview-anya](./github/preview-anya.png)
 
 > Spy x Family
 
